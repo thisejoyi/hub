@@ -41,4 +41,12 @@
 ||aifwjekfe.xyz^
 ||app.thestaxapp.com^
 ||acquirethem.com^
-||app.rm
+||app.rm^
+#微音乐助手启动弹窗广告
+||adukwai.com^
+||yximgs.com^$important
+||sdkoptedge.chinanetcenter.com^$important
+||api.iegadp.qq.com^
+||conn-service-cn-03.allawntech.com^$important
+||teg.tencent-cloud.net^$important
+||gdfp.gifshow.com^$important
