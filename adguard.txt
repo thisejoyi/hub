@@ -44,9 +44,9 @@
 ||app.rm^
 #微音乐助手启动弹窗广告
 ||adukwai.com^
-||yximgs.com^$important
-||sdkoptedge.chinanetcenter.com^$important
+||yximgs.com^
+||sdkoptedge.chinanetcenter.com^
 ||api.iegadp.qq.com^
-||conn-service-cn-03.allawntech.com^$important
-||teg.tencent-cloud.net^$important
-||gdfp.gifshow.com^$important
+||conn-service-cn-03.allawntech.com^
+||teg.tencent-cloud.net^
+||gdfp.gifshow.com^
