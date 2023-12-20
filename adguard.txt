@@ -48,3 +48,4 @@
 ||sdkoptedge.chinanetcenter.com^
 ||conn-service-cn-03.allawntech.com^
 ||gdfp.gifshow.com^
+||api.iegadp.qq.com^
