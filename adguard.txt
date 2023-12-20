@@ -49,3 +49,4 @@
 ||conn-service-cn-03.allawntech.com^
 ||gdfp.gifshow.com^
 ||api.iegadp.qq.com^
+||teg.tencent-cloud.net^
