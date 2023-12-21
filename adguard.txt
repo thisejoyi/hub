@@ -42,11 +42,3 @@
 ||app.thestaxapp.com^
 ||acquirethem.com^
 ||app.rm^
-#微音乐助手启动弹窗广告
-||adukwai.com^
-||yximgs.com^
-||sdkoptedge.chinanetcenter.com^
-||conn-service-cn-03.allawntech.com^
-||gdfp.gifshow.com^
-||api.iegadp.qq.com^
-||teg.tencent-cloud.net^
