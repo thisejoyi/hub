@@ -42,3 +42,7 @@
 ||app.thestaxapp.com^
 ||acquirethem.com^
 ||app.rm^
+#番茄5.8.3.32阅读页内嵌广告
+||p3-webcast-sign.douyinpic.com^
+||polaris3-normal-hl.zijieapi.com^
+||lf3-reading.fqnovelpic.com^
