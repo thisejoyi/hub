@@ -5,37 +5,29 @@
 ||v6-novelapp.fqnovelvod.com^
 ||v3-be-pack.pglstatp-toutiao.com^
 ||p3-webcast.douyinpic.com^
-||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
 ||tnc3-bjlgy.zijieapi.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||p9-developer-sign.bytemaimg.com^
 ||tnc11-bjlgy.zijieapi.com^
 ||123.6.82.180:80^$important
 ||tnc3-aliec2.zijieapi.com^
-/fqnovelvod.*/
 ||p3-webcast-sign.douyinpic.com^
 ||lf9-cdn-tos.bytegecko.com^
 ||203.119.216.50:443^
 ||dgstatic.jd.com/dg/ksdk/mid-page.html^$important
 ||p6-be-pack-sign.pglstatp-toutiao.com^
-||zijieapi.com^
-appinn.com###latest-posts .latestPost:nth-child（-n+3）
 ||dig.bdurl.net^
 ||vcs.zijieapi.com^
 ||lf-cdn-tos.bytescm.com^
 ||frontier-toutiao.snssdk.com^
 ||mon11-misc-lq.fqnovel.com^
 ||p9-reading-sign.fqnovelpic.com^
-/lf.fqnovel.*/
 ||p9-novelfm-sign.novelfmpic.com^
 ||p26.douyinpic.com^
-appinn.com###sidebar.wp-block-image, .size-full
 ||beacon-api.aliyuncs.com^
 ||adash.man.aliyuncs.com^
 ||tnc3-alisc1.zijieapi.com^
 ||111.13.24.68:443^$important
-||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
-/ad-sign.*/
 ||113.207.83.53:443^
 ||ads5-normal-lq.zijieapi.com^
 ||ads5-normal-lf.zijieapi.com^
@@ -43,32 +35,20 @@ appinn.com###sidebar.wp-block-image, .size-full
 ||112.192.22.90:443^$important
 ||ma5-normal-lq.zijieapi.com^
 ||116.132.223.77:443^$important
-/bytegoofy.*/
-||api-access.pangolin-sdk-toutiao.com^
-appinn.com##.featured-section
 ||imapi2.snssdk.com^
-/byteorge.*/
-/mgsdk-sign.*/
 ||polaris3-normal-lq.zijieapi.com^
 ||v6-be-pack.pglstatp-toutiao.com^
-||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /
 ||116.169.11.27:443^
-||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/
 ||abtest3-misc-lq.zijieapi.com^
-/pangolin-sdk.*/
 ||gecko5-lq.zijieapi.com^
 ||feedback-c.zijieapi.com^
 ||is-lq.snssdk.com^
-/zijieapi.*/
-/bytedance.*/
 ||p3-be-pack-sign.pglstatp-toutiao.com^
 ||skdisplay.jd.com^
 ||p9-be-pack-sign.pglstatp-toutiao.com^
-||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /
 ||p26-be-pack-sign.pglstatp-toutiao.com^
 ||p3-novel.byteimg.com^
 ||p6-ad-sign.byteimg.com^
-/snssdk.*/
 ||116.169.48.137:443^$important
 ||p3-novelfm-sign.novelfmpic.com^
 ||v9-be-pack.pglstatp-toutiao.com^
